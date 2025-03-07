@@ -1,4 +1,4 @@
-# FastAPI-based Chatbot using Gemma 2B and DeepSeek-Coder 1.3B on Azure with Docker & Ollama
+# FastAPI-based Model using Gemma 2B and DeepSeek-Coder 1.3B on Azure with Docker & Ollama
 
 This guide will help you deploy a FastAPI chatbot on an Azure Virtual Machine (VM) using Docker and Ollama to run **Gemma 2B** and **DeepSeek-Coder 1.3B**.
 
